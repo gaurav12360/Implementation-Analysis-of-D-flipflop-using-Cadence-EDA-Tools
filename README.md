@@ -26,6 +26,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Design the D flip-flop circuit with key components such as clock signal input, D input, and Q output.
 - Implement feedback connections to enable sequential behavior.
 - Connect appropriate voltage sources for logic control and supply.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2dc39a1a-833f-4c59-8975-bb3d6878799b" />
 
 ### 3. Simulation
 - Verify the schematic design for connection errors.
@@ -44,21 +45,26 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e87d2cc9-184d-4fa5-a9c7-fadf1d80575c" />
+)
 
 
 ### 3. Transient Response Setup
 
-![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0ff96cb0-a96a-4d71-bb6f-75e834f9999b" />
 
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/04837832-9e51-4eb2-b8e2-ecbb6e53c968" />
+
 
 
 
 ## Output
 
 ### 1. Transient Analysis Output
-![Screenshot 2025-03-08 112821](https://github.com/user-attachments/assets/4ff6da47-7de7-480d-a90e-ebb0b66e2053)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3e91d0a9-89ef-4f6f-bf32-63ae28cd5042" />
+
+
 
 
 ## Results
